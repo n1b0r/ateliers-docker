@@ -4,7 +4,7 @@
 |-----------------------------|:-------------------------------------------------------:|----------:|
 | 02-02-2017                  |  Présentation1                                          |           |
 | [09-02-2017](09.02.2017.md) |  Présentation2                                          |           |
-| 16-02-2017                  |  Présentation3 - Pour les retardataires                 |           |
+| 16-02-2017                  |  Présentation3 - Pour les retardataires - sujets libres |           |
 | 23-02-2017                  |  Dockerfile                                             | Robin + ? |
 | 02-03-2017                  |  -                                                      |           |
 | 09-03-2017                  |  -                                                      |           |
