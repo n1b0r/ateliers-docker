@@ -11,6 +11,13 @@
 | 16-03-2017                  |  Gitlab ? Docker & friends ?                            |           |
 
 
+L'idée serait d'établir un sujet principal par atelier:
+ * 1 présentation toutes les 2/3 semaines ?
+ * discussion libre sur les autres ateliers ?
+  
+Il faudrait que les participants prennent en main un sujet pour pouvoir le présenter lors d'un atelier.
+
+
 # Topics
 
  * Dockerfile : c'est quoi un Dockerfile bien pensé ? C'est quoi des layers ?
