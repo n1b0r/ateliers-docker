@@ -9,6 +9,8 @@
 | 02-03-2017                  |  -                                                      |           |
 | 09-03-2017                  |  -                                                      |           |
 | 16-03-2017                  |  Gitlab ? Docker & friends ?                            |           |
+| 23-03-2017                  |  -                                                      |           |
+| 30-03-2017                  |  Apéro docker, viens nous parler de tes projets dockers |           |
 
 
 L'idée serait d'établir un sujet principal par atelier:
